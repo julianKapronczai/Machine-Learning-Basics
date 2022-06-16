@@ -40,5 +40,5 @@ One way of doing so is by clustering the data. Clustering is the rescaling proce
 
 
 
-<sub> Kijiji's JSON implementation was messy to say the least, I opted to return API data in XML </sub>
+<sub> Huge Thanks to Alex Hill for being my best friend </sub>
 
