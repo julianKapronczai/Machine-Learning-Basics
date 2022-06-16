@@ -3,6 +3,10 @@ layout: post
 title: About
 ---
 
+![FigureJulian](/assets/images/pic-J-for-blog.png) 
+
+
+
 Hello,
 
 I'm Julian Kapronczai, a student at SAIT learning about software development(SD). 
