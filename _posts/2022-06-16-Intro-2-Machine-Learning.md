@@ -10,14 +10,14 @@ Machine learning is in essence a machines ability to learn from mathematical dat
 There are two different types of learning we will go over in this blog. Each type of machine learning returns different kind of target vectors. The data you are presented with dictates which kind of machine learning algorithm is required, or what steps with multiple algorithms you will need to take. As the programmer you will provide a program with different algorithms for different data related tasks. As such the data being used plays the biggest role in how machine learning will be implemented within a system. Down below you will see the three types please click on which you would like to start with. The recommended order is from Supervised learning moving on to Unsupervised learning. The figure bellow will help illustrate what we will be working with going forward(Figure #1).
 
 
-![Figure1]({{ site.url }}/assets/images/pic-1-for-blog.png)
+![Figure1]({{site.url}}/assets/images/pic-1-for-blog.png)
 
 ### Supervised Learning
 
 Supervised learning is more commonly used than other types of machine learning. Most often the types of problems you will want to use supervised learning for are problem where you have preexisting data for the inputs, as well as the outputs.  Supervised learning is implemented as   a solution for classification(Figure #2), and regression problems(Figure #3). 
 
 
-![Figure2]({{ site.url }}/assets/images/pic-2-for-blog.png) ![Figure3]({{ site.url }}/assets/images/pic-3-for-blog.png)
+![Figure2]({{site.url}}/assets/images/pic-2-for-blog.png) ![Figure3]({{site.url}}/assets/images/pic-3-for-blog.png)
 
 
 
@@ -35,7 +35,7 @@ Unsupervised learning is designed to make enormous datasets easier to digest and
 One way of doing so is by clustering the data. Clustering is the rescaling process that partitions a dataset into groups called clusters. Its sections off the data points of similar nature to other data points similar to the classification of datasets talked about in supervised learning. The clustering algorithm assigns a number to each data point designating it to a specific cluster. The easiest example of clustering to understand is k-means clustering. K-means clustering attempts to locate the middle of a cluster to represent each section of data. The algorithms switches between assigning each data point to the most relevant cluster based on its features. Then assigning each cluster center point based on the mean of all the newly assigned data points. Once the algorithm runs its course the cluster instances will no longer be changed. The image bellow helps to illustrate that(Figure #4).  
 
 
-![Figure5]({{ site.url }}/assets/images/pic-5-for-blog.png)
+![Figure5]({{site.url}}/assets/images/pic-5-for-blog.png)
 
 
 
