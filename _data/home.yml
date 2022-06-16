@@ -1,0 +1,21 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+project_entries:
+  - title: Marketwatch
+    url: marketwatch
+    desc: A Windows app for notifying you of new deals on local markets.
+  - title: My First Python Script
+    url: first-python-script
+    desc: My first python script I coded 4 years ago!
+  - title: Javascript Snake
+    url: snake-game
+    desc: A version of snake I coded in Javascript in Robotics class during Grade Eight.
+
+footer_entries:
+  - title: GitHub
+    url: https://github.com/ghalibalrawi
