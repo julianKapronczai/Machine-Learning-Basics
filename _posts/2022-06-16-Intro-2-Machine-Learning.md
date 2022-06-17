@@ -11,13 +11,17 @@ There are two different types of learning we will go over in this blog. Each typ
 
 
 ![Figure1]({{site.url}}/assets/images/pic-1-for-blog.png)
+(Figure 1)
 
 ### Supervised Learning
 
 Supervised learning is more commonly used than other types of machine learning. Most often the types of problems you will want to use supervised learning for are problem where you have preexisting data for the inputs, as well as the outputs.  Supervised learning is implemented as   a solution for classification(Figure #2), and regression problems(Figure #3). 
 
 
-![Figure2]({{site.url}}/assets/images/pic-2-for-blog.png) ![Figure3]({{site.url}}/assets/images/pic-3-for-blog.png)
+![Figure2]({{site.url}}/assets/images/pic-2-for-blog.png)
+(Figure 2)
+ ![Figure3]({{site.url}}/assets/images/pic-3-for-blog.png)
+ (Figure 3)
 
 
 
@@ -36,6 +40,8 @@ One way of doing so is by clustering the data. Clustering is the rescaling proce
 
 
 ![Figure5]({{site.url}}/assets/images/pic-5-for-blog.png)
+(Figure 5)
+
 
 
 
