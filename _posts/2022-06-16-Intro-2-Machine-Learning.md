@@ -3,6 +3,10 @@ layout: post
 title: Introduction to Machine Learning
 ---
 ### Machine Learning Introduction
+
+<video src="https://user-images.githubusercontent.com/90798172/174354625-bf5d2972-e827-431a-a063-7ed11c51f2ab.mp4" data-canonical-src="https://user-images.githubusercontent.com/90798172/174354625-bf5d2972-e827-431a-a063-7ed11c51f2ab.mp4" controls="controls" muted="muted"  style="width: 100%; height: auto;">
+
+  </video>
 Machine learning is widely used in today’s society. It allows programs and machines to learn depending on how the programmer implements them, and the data its presented with.  Everything from advertisements you see on YouTube, to recommended friends on social media, are all the results of implemented machine learning algorithms. Other than the use of machine learning in the medias, there are more important  application of machine learning in our society. Things like personalizing treatment plans, and analyzing micro bacteria are examples of problems and tasks that can be solved by implementing machine learning.
 
 Machine learning is in essence a machines ability to learn from mathematical data that would otherwise be impossible for a human to reproduce. We use what is called a feature matrix a large set of data, and a target vector the value you want output after the data is run through the program. Machine learning algorithms take data from a feature matrix and runs it through a model. A model is program that uses a mathematical algorithm to predict a target vector. This model can learn and be altered making the outputs of the program more accurate to the target vector data.  Now that all sounds simple, you have data, and you use machine models to produce an output that closely matches the target vectors. 
