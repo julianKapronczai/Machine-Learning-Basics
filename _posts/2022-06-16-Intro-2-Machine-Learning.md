@@ -58,5 +58,5 @@ One way of doing so is by clustering the data. Clustering is the rescaling proce
 
 
 
-<sub> Huge Thanks to Alex Hill for being my best friend </sub>
+<sub> </sub>
 
