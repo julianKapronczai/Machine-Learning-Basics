@@ -4,9 +4,10 @@ title: Introduction to Machine Learning
 ---
 ### Machine Learning Introduction
 
-<video src="https://user-images.githubusercontent.com/90798172/174354625-bf5d2972-e827-431a-a063-7ed11c51f2ab.mp4" data-canonical-src="https://user-images.githubusercontent.com/90798172/174354625-bf5d2972-e827-431a-a063-7ed11c51f2ab.mp4" controls="controls" muted="muted"  style="width: 100%; height: auto;">
+<video src="https://user-images.githubusercontent.com/90798172/174352084-b0aebb3d-9935-4d29-8fc7-3d7c439012fb.mp4" data-canonical-src="https://user-images.githubusercontent.com/90798172/174352084-b0aebb3d-9935-4d29-8fc7-3d7c439012fb.mp4" controls="controls" muted="muted"  style="width: 100%; height: auto;">
 
   </video>
+
 Machine learning is widely used in today’s society. It allows programs and machines to learn depending on how the programmer implements them, and the data its presented with.  Everything from advertisements you see on YouTube, to recommended friends on social media, are all the results of implemented machine learning algorithms. Other than the use of machine learning in the medias, there are more important  application of machine learning in our society. Things like personalizing treatment plans, and analyzing micro bacteria are examples of problems and tasks that can be solved by implementing machine learning.
 
 Machine learning is in essence a machines ability to learn from mathematical data that would otherwise be impossible for a human to reproduce. We use what is called a feature matrix a large set of data, and a target vector the value you want output after the data is run through the program. Machine learning algorithms take data from a feature matrix and runs it through a model. A model is program that uses a mathematical algorithm to predict a target vector. This model can learn and be altered making the outputs of the program more accurate to the target vector data.  Now that all sounds simple, you have data, and you use machine models to produce an output that closely matches the target vectors. 
@@ -31,6 +32,11 @@ Supervised learning is more commonly used than other types of machine learning. 
 
 So, let’s say you have three fruits. Granny Smith apples, Red Delicious apples, and Gala apples, all these fruits have lots of distinguishing traits that make them unique. This means we have either a classification problem or a regression problem. We want to classify the different apples, and evaluate the shelf life of each kind of apple. For both we will need to build a model according to these target vectors. Our first problem we will deal with is the classification problem, we need out model to predict which apple belongs in which class of apple. Second we will need to predict a continuous number that will give us an idea of how long each apple will survive on a shelf, making this the regression portion of the problem. To start things off we can split our data set in two parts, one set containing our training dataset and another being our test dataset. We will the be once again splitting our training dataset in two again, this allows us to train our models with two different sets of training data. Doing so is called cross validation. Cross validation allows us to improve our models by teaching with one half of the data to get our baseline accuracy. Then teach with data the model hasn’t seen improving the models as we go again to have our models as accurate as we can get them before exposing them to real world data. This is done repeatedly while adjusting the model during both teaching steps so we can get our predictions as accurate as possible to the target vectors. If for what ever reason we are getting our model to predict with perfect accuracy its shows we likely we have made an error as it will be nearly impossible to attain that accuracy once we introduce real data to our models. With that said we now have cross validated out models and they ideally have a high accuracy for both the classification of apple and the regression of their shelf life. We are now ready to test out data on our test dataset and the result of that will be the final result of the accuracy of our models on real world data. 
 
+<video src="https://user-images.githubusercontent.com/90798172/174354625-bf5d2972-e827-431a-a063-7ed11c51f2ab.mp4" data-canonical-src="https://user-images.githubusercontent.com/90798172/174354625-bf5d2972-e827-431a-a063-7ed11c51f2ab.mp4" controls="controls" muted="muted"  style="width: 100%; height: auto;">
+
+  </video>
+
+
 Now that you understand a bit more about how we can work with supervised learning read and watch below for a demonstration in how its implemented. 
 
 
@@ -46,7 +52,9 @@ One way of doing so is by clustering the data. Clustering is the rescaling proce
 ![Figure5]({{site.url}}/assets/images/pic-5-for-blog.png)
 (Figure 5)
 
+<video src="https://user-images.githubusercontent.com/90798172/174352716-1d82d5e4-ed3d-4033-b0de-105afb0426d7.mp4" data-canonical-src="https://user-images.githubusercontent.com/90798172/174352716-1d82d5e4-ed3d-4033-b0de-105afb0426d7.mp4" controls="controls" muted="muted" style="width: 100%; height: auto;">
 
+  </video>
 
 
 
